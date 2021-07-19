@@ -9,6 +9,6 @@ Assignments done as part of Automata Theory course at IIITH
 
 * ### Programming assignment
     Involves Questions: 
-    - Convert regular expression to NFA [here]()
-    - Convert NFA to DFA [here]()
-    - Minimize a DFA [here]()
+    - Convert regular expression to NFA [here](https://github.com/sravanthi657/Automata-Theory/blob/main/Programming/q1.py)
+    - Convert NFA to DFA [here](https://github.com/sravanthi657/Automata-Theory/blob/main/Programming/q2.py)
+    - Minimize a DFA [here](https://github.com/sravanthi657/Automata-Theory/blob/main/Programming/q4.py)
